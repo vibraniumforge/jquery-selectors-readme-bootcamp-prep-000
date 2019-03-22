@@ -1,8 +1,12 @@
 // declare your functions here...
 function paragraphSelector() {
-  $("p")
+  $("p");
 }
 
 function lastImageSelector() {
-  $("img:last")
+  $("img:last");
+}
+
+function ninjaBabySelector() {
+  $("#baby-ninja");
 }
